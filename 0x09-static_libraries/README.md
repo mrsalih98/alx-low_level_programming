@@ -1,1 +1,1 @@
-libararies
+lib
